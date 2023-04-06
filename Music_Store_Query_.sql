@@ -45,10 +45,6 @@ ORDER BY total_spending DESC
 LIMIT 1;
 
 
-
-
-
-
 /* Q6: Write query to return the email, first name, last name, & Genre of all Rock Music listeners. 
 Return your list ordered alphabetically by email starting with A. */
 
