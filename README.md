@@ -1,4 +1,4 @@
-# Learning purpose project of SQL using SQL on PostgreSQL database platform.
+# Learning purpose project of SQL using PostgreSQL database platform.
 
 Project Name-  Digital-Music-Store-Analysis-using-SQL 
 
